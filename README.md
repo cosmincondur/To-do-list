@@ -1,4 +1,4 @@
-# How to run this project - To Do List
+# How to run this project
 
 1) git clone repo-url
 2) composer dump-autoload
