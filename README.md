@@ -7,6 +7,6 @@
 5) root Core/Database -> add user and password in construct
 6) import database tables from root sql/dump.sql
 
-⚠️ **Attention:** Code is created to display all the notes of user with id : 1
+⚠️ **Attention:** Code is created to work with the notes from the user with id : 1
 
 Enjoy !
